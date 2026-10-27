@@ -1,4 +1,3 @@
-::: {align="center"}
 # Ifeanyi Fortune Daberechi
 
 ### AI & Cybersecurity Researcher \| Graduate Research & Teaching Assistant
